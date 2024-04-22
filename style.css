@@ -1,0 +1,40 @@
+/* Estilos para o site */
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    height: 50px;
+}
+
+/* Estilos para o menu */
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Estilos para o resumo dos alunos */
+.resumo {
+    padding: 20px;
+}
+
+.membro {
+    margin-bottom: 20px;
+}
+
+.membro img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
